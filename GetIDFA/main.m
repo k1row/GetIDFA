@@ -2,8 +2,6 @@
 //  main.m
 //  GetIDFA
 //
-//  Created by Keiichiro Nagashima on 2013/05/09.
-//  Copyright (c) 2013年 Keiichiro Nagashima. All rights reserved.
 //
 
 #import <UIKit/UIKit.h>
